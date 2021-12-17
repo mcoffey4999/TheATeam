@@ -1,0 +1,15 @@
+C:\Users\Michael's PC\TheATeam\obj\Debug\net6.0\TheATeam.csproj.AssemblyReference.cache
+C:\Users\Michael's PC\TheATeam\obj\Debug\net6.0\TheATeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael's PC\TheATeam\obj\Debug\net6.0\TheATeam.AssemblyInfoInputs.cache
+C:\Users\Michael's PC\TheATeam\obj\Debug\net6.0\TheATeam.AssemblyInfo.cs
+C:\Users\Michael's PC\TheATeam\obj\Debug\net6.0\TheATeam.csproj.CoreCompileInputs.cache
+C:\Users\Michael's PC\TheATeam\bin\Debug\net6.0\TheATeam.exe
+C:\Users\Michael's PC\TheATeam\bin\Debug\net6.0\TheATeam.deps.json
+C:\Users\Michael's PC\TheATeam\bin\Debug\net6.0\TheATeam.runtimeconfig.json
+C:\Users\Michael's PC\TheATeam\bin\Debug\net6.0\TheATeam.dll
+C:\Users\Michael's PC\TheATeam\bin\Debug\net6.0\ref\TheATeam.dll
+C:\Users\Michael's PC\TheATeam\bin\Debug\net6.0\TheATeam.pdb
+C:\Users\Michael's PC\TheATeam\obj\Debug\net6.0\TheATeam.dll
+C:\Users\Michael's PC\TheATeam\obj\Debug\net6.0\ref\TheATeam.dll
+C:\Users\Michael's PC\TheATeam\obj\Debug\net6.0\TheATeam.pdb
+C:\Users\Michael's PC\TheATeam\obj\Debug\net6.0\TheATeam.genruntimeconfig.cache
